@@ -55,7 +55,6 @@ SPELL_IMG = environ.get('SPELL_IMG', "https://telegra.ph/file/f1e74f16bca533971e
 # Welcome area
 MELCOW_IMG = environ.get('MELCOW_IMG',"https://telegra.ph/file/ddb8dce74c19b704f0978.jpg")
 MELCOW_VID = environ.get('MELCOW_VID',"https://telegra.ph//file/67c073e5fcb1815c3484f.mp4")
-PMFILTER = bool(environ.get("PMFILTER", True))
 
 
 # Admins, Channels & Users
